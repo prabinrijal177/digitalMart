@@ -1,0 +1,107 @@
+.personalDetails{
+    position: relative;
+    left: 60px;
+    bottom: 10px;
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+    color: #353935;
+}
+.shopDetails{
+    position: relative;
+    left: 105px;
+    bottom: 10px;
+    width: 130px;
+    height: 30px;
+    background-color: #F28C28;
+    color:#353935;
+    border-radius: 5px;
+}
+.selelrAccountForm{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+  border-radius: 5px;
+  font-weight: 600;
+}
+.ShopForm{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 600;
+}
+.submitDiv{
+    width: 500px;
+    padding: 10px;
+    margin-top:25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.submitButtonTop{
+    position: relative;
+    left: 150px;
+    bottom: 10px;
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+    background-color: #F28C28;
+    color: #353935;
+}
+.checkbox{
+    width: 17px;
+    height: 17px;
+    cursor: pointer;
+    margin-left: 9px;
+}
+.DoneButton{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin: auto;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    padding: auto;
+    padding-left: 13px;
+    background-color: #F28C28;
+    color: #353935;
+}
+.title{
+    font-size: 40px;
+    text-align: end;
+    margin-right: 200px;
+    padding-top:  30px;
+    padding-bottom: 50px;
+    color:#353935;
+
+}
+.sellerAccount
+{
+    height: 340px;
+    width: 600px;
+    border: 1px solid black;
+    z-index: -1;
+    margin-left: auto;
+    margin-right: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:#353935;
+    color: #F28C28;
+}
+.sellerAccountContainer{
+    height: 520px;
+    margin-top: 140px;
+    background-color: 	#F28C28;
+}
+.agreeLabel{
+    margin-top: 10px!important;
+    margin-left: 0px!important;
+}

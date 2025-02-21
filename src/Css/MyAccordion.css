@@ -1,0 +1,17 @@
+.mainHeading {
+  width: 800px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color:#F28C28;
+  border-radius: 7px;
+  color: #353935;
+}
+.FQ {
+  font-size: 17px;
+  font-weight: 600;
+}
+.FA {
+  margin-top: 14px;
+  font-size: 15;
+}

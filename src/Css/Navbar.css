@@ -1,0 +1,54 @@
+.navbarHero{
+  background-color: #F28C28;
+  
+}
+.navbar {
+  height: 63px;
+  font-size: 14px;
+  width: 1345px;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.logo {
+  width: 120px;
+  height: 45px;
+}
+.navHeroContent {
+  width: 175px;
+  color:#353935;
+}
+.navbarTop {
+  width: 1345px;
+  justify-content: space-between;
+  margin: auto;
+  font-size: 14px;
+  padding-top: 8px;
+  font-weight: 500;
+  color: #353935;
+}
+.navbarTopContent {
+  width: 420px;
+}
+.searchIcon {
+  position: relative;
+  left: 93%;
+  top: 33%;
+}
+.searchForItem {
+  padding-left: 15px;
+  margin-top: 7px;
+  width: 600px;
+  border-radius: 32px;
+  height: 40px;
+  background-color: white;
+}
+.divider {
+  border: 1px solid black;
+  height: 25px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.searchBar {
+  margin-right: 65px;
+}
